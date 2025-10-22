@@ -4,11 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
-- 💼 I’m looking for an internship **at a game development studio**
+- 💼 I’m seeking opportunities with **a game development studio**
 
-- 📚 I’m currently learning **Unreal Engine**
+- 💻 I work as a Tech Designer at **Hinge Games**, buit in **Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [https://bohberezovskyi.itch.io/](https://bohberezovskyi.itch.io/)
+- 📚 My background includes **Unreal Engine**, and I'm expanding my skills with **Unity**
+
+- 👨‍💻 Some of my projects are available at [https://bohberezovskyi.itch.io/](https://bohberezovskyi.itch.io/)
 
 - 💬 Ask me about **C++**
 
