@@ -6,7 +6,7 @@
 
 - 💼 I’m seeking opportunities with **a game development studio**
 
-- 💻 I work as a Tech Designer at **Hinge Games**, buit in **Unreal Engine**
+- 💻 I work as a Tech Designer at **Hinge Games**, built in **Unreal Engine**
 
 - 📚 My background includes **Unreal Engine**, and I'm expanding my skills with **Unity**
 
